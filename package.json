@@ -1,0 +1,9 @@
+{
+  "name": "teleprompter-botkeep-piloto",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Piloto isolado do Teleprompter, sem dependencias externas.",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node server.mjs" }
+}
