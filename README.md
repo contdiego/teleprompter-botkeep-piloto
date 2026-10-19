@@ -2,7 +2,7 @@
 
 Copia isolada do HTML publico do Teleprompter. A hospedagem de producao permanece inalterada.
 
-Perfil Botkeep: Application / Node.js 22. Comando: `npm start`.
+Perfil Botkeep do piloto: Application / Node.js 24. Comando: `npm start`.
 O servidor usa `SERVER_PORT`, depois `PORT`, com fallback local para 3000, e escuta em `0.0.0.0`.
 Nao ha dependencias externas, tokens, arquivos de configuracao privados ou banco de dados.
 
